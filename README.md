@@ -2,8 +2,9 @@
 
 A board game inspired by chess, with super hero characters that have different superpower abilities.
 <br/>
-![](images/Game%preview.png)
 <br/>
+<img src = "images/Game preview.PNG">
+
 ## Game Rules
 
 ### Moves
